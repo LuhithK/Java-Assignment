@@ -23,6 +23,9 @@
 
     <!-- TextField and Button for manual column selection -->
     <!-- <TextField fx:id="columnIndexField" layoutX="415.7" layoutY="20" prefHeight="32.9" prefWidth="150.0" promptText="Enter column index" style="-fx-background-color: #78B3CE; -fx-text-fill: black; -fx-prompt-text-fill: black;"  /> -->
-    <Text layoutX="350.6" layoutY="45" strokeType="OUTSIDE" strokeWidth="0.0" text="SORTING ALGORITHM PERFORMANCE EVALUATION" style="-fx-fill: white;" />
+    
+<Text layoutX="350.6" layoutY="45" strokeType="OUTSIDE" strokeWidth="0.0" text="SORTING ALGORITHM PERFORMANCE EVALUATION" style="-fx-fill: white;" />
+<Text layoutX="350.6" layoutY="45" strokeType="OUTSIDE" strokeWidth="0.0" text="SORTING ALGORITHM PERFORMANCE EVALUATION" style="-fx-fill: white;" />
+<!-- dinithi bada -->
 
 </AnchorPane>
